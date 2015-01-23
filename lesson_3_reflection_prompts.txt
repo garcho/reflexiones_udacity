@@ -6,13 +6,13 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Porque es importante que los cambios guardados no sean al asar, es cada commit tenga un sentido que amerite guardar el cambio. 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
-
+    Fork es copiar el proyecto de un tercero para trabajarlo uno. Clonar es copiar un proyecto propio a un computador. Branches son ramans donde uno puede realizar trabajo sin afectar cada rama. 
+    
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
