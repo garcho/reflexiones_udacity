@@ -1,10 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
-	Para crear el archivo necesario para que le programa git realice los controles de commits. 
+		
+		Para crear el archivo necesario para que le programa git realice los controles de commits. 
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-	Es un paso intermedio antes de realizar un commit, donde se puede verificar los cambios antes de realizar el commit. 
+		Es un paso intermedio antes de realizar un commit, donde se puede verificar los cambios antes de realizar el commit. 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
@@ -18,8 +19,15 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+		Es una ayuda visual que me permite comprender el concepto de branch y entender como evolucionó el trabajo en los archivos. 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+		Que los commits de las dos branches son accesibles desde un branch. 
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+		Un PRO de hacerlo automaticamente es velocidad y un CON es no tener un entendimiento claro que los cambios realizados por otras personas. En metodo manual es lento pero genera un gran entendimiento del código creado por otros. 
+		
