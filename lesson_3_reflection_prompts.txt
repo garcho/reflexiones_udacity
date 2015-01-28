@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Cuando el código en master es el publico y más estable de todos y la rama (branch) es algo que se está propagando y no es definitivo. Se es definitivo cuando se une con master. 
