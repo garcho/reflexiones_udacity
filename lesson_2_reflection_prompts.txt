@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 		
-		Para crear el archivo necesario para que le programa git realice los controles de commits. 
+		Para crear el archivo donde git git realiza los controles de commits y mantiene el historial, entre otros controles. 
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
